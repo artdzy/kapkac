@@ -97,7 +97,7 @@ Kapkaç collects nothing: no account, no analytics, no crash reports. Screenshot
 
 <details>
 <summary><strong>What language is the app in?</strong></summary>
-<p>The interface is in Turkish today; the App Store listing is available in English. The workflow is a handful of keys, so it reads the same in any language.</p>
+<p>The interface follows your system language: English and Turkish today. The workflow is a handful of keys, so it reads the same in any language.</p>
 </details>
 
 ## Requirements
