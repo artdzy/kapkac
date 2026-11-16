@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/app/id6826537251?mt=12"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83" alt="Download on the Mac App Store" height="66"></a>
+  <br><sub>Free. Or download the notarized app from <a href="https://github.com/artdzy/kapkac/releases/latest">GitHub Releases</a>.</sub>
 </p>
 
 <p align="center">
@@ -29,6 +30,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/app/id6826537251?mt=12"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83" alt="Download on the Mac App Store" height="66"></a>
+  <br><sub>Free on the Mac App Store, or as a notarized download from <a href="https://github.com/artdzy/kapkac/releases/latest">GitHub Releases</a>.</sub>
 </p>
 
 <br>
@@ -98,7 +100,7 @@ Kapkaç collects nothing: no account, no analytics, no crash reports. Screenshot
 
 <details>
 <summary><strong>Is Kapkaç free?</strong></summary>
-<p>Yes. Kapkaç is free on the Mac App Store, with no account and no in-app purchases. A notarized direct download is also coming to <a href="https://github.com/artdzy/kapkac/releases">GitHub Releases</a>.</p>
+<p>Yes. Kapkaç is free on the Mac App Store, with no account and no in-app purchases. The same app is also available as a notarized direct download from <a href="https://github.com/artdzy/kapkac/releases/latest">GitHub Releases</a>: unzip it and move Kapkaç to your Applications folder.</p>
 </details>
 
 <details>
@@ -108,7 +110,7 @@ Kapkaç collects nothing: no account, no analytics, no crash reports. Screenshot
 
 ## Requirements
 
-macOS 14 Sonoma or later. Screen Recording permission on first grab. WhatsApp desktop is optional; WhatsApp Web is used when it is missing.
+macOS 14 Sonoma or later. Screen Recording permission on first grab. WhatsApp desktop is optional; WhatsApp Web is used when it is missing. Two ways to install: the Mac App Store, or the notarized download from <a href="https://github.com/artdzy/kapkac/releases/latest">GitHub Releases</a> (same app, same sandbox).
 
 ## Türkçe
 
@@ -120,7 +122,7 @@ Kapkaç, Mac'in menü çubuğunda yaşayan, klavyeden yönetilen ekran görünt�
 
 ## About this repository
 
-This is the project page for Kapkaç. The app ships through the Mac App Store; the panels above are rendered by Kapkaç's own store-shot renderer.
+This is the project page for Kapkaç. The app ships through the Mac App Store and as a notarized download under this repository's Releases; the panels above are rendered by Kapkaç's own store-shot renderer.
 
 <br>
 
