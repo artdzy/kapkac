@@ -8,6 +8,7 @@
   <a href="https://apps.apple.com/app/id6826537251?mt=12"><img src="https://img.shields.io/itunes/v/6826537251?label=Mac%20App%20Store&logo=apple&logoColor=white&color=F2FF3B&labelColor=0A0A0A" alt="Mac App Store version"></a>
   <img src="https://img.shields.io/badge/macOS-14%2B-0A0A0A?logo=apple&logoColor=white" alt="macOS 14 or later">
   <img src="https://img.shields.io/badge/Swift-SwiftUI%20%C2%B7%20ScreenCaptureKit-FF2D7A?logo=swift&logoColor=white" alt="Swift, SwiftUI, ScreenCaptureKit">
+  <img src="https://img.shields.io/badge/price-free-F2FF3B?labelColor=0A0A0A" alt="Free">
   <img src="https://img.shields.io/badge/tracking-none-5CFF8F?labelColor=0A0A0A" alt="No tracking">
 </p>
 
@@ -43,7 +44,7 @@ Press the shortcut and the screen freezes. Drag to select a region, or click onc
 - **Links without an account.** <kbd>⌘U</kbd> uploads to Catbox (permanent), 0x0.st (expires) or Imgur with your own client ID, then copies the link. Kapkaç asks before the first upload.
 - **WhatsApp in one key.** <kbd>W</kbd> copies the image and brings WhatsApp forward; pick a chat and paste. Switch to link mode in Settings if you prefer.
 - **Loot.** Your last 30 grabs stay in the menu bar: reveal in Finder, copy the image or the link, or get a link later. A yearly Loot Report sums it up.
-- **Yours.** No account, no analytics, no crash reporting. Images leave your Mac only when you explicitly ask for a link. Sandboxed, under 1 MB, native Swift.
+- **Free and yours.** Free on the Mac App Store; no account, no analytics, no crash reporting. Images leave your Mac only when you explicitly ask for a link. Sandboxed, under 1 MB, native Swift.
 
 ## Shortcuts
 
@@ -96,6 +97,11 @@ Kapkaç collects nothing: no account, no analytics, no crash reports. Screenshot
 </details>
 
 <details>
+<summary><strong>Is Kapkaç free?</strong></summary>
+<p>Yes. Kapkaç is free on the Mac App Store, with no account and no in-app purchases. A notarized direct download is also coming to <a href="https://github.com/artdzy/kapkac/releases">GitHub Releases</a>.</p>
+</details>
+
+<details>
 <summary><strong>What language is the app in?</strong></summary>
 <p>The interface follows your system language: English and Turkish today. The workflow is a handful of keys, so it reads the same in any language.</p>
 </details>
@@ -106,7 +112,7 @@ macOS 14 Sonoma or later. Screen Recording permission on first grab. WhatsApp de
 
 ## Türkçe
 
-Kapkaç, Mac'in menü çubuğunda yaşayan, klavyeden yönetilen ekran görüntüsü aracı. Kısayola bas, ekran donsun; alanı seç, üstüne çiz, <kbd>⌘U</kbd> ile linkini al, <kbd>W</kbd> ile WhatsApp'a kaçır. Hesap yok, takip yok. Türkçe tanıtım, kısayollar ve sık sorulanlar için [kapkac.netlify.app](https://kapkac.netlify.app), destek için [kapkac.netlify.app/destek](https://kapkac.netlify.app/destek/).
+Kapkaç, Mac'in menü çubuğunda yaşayan, klavyeden yönetilen ekran görüntüsü aracı. Kısayola bas, ekran donsun; alanı seç, üstüne çiz, <kbd>⌘U</kbd> ile linkini al, <kbd>W</kbd> ile WhatsApp'a kaçır. Ücretsiz; hesap yok, takip yok. Türkçe tanıtım, kısayollar ve sık sorulanlar için [kapkac.netlify.app](https://kapkac.netlify.app), destek için [kapkac.netlify.app/destek](https://kapkac.netlify.app/destek/).
 
 <p align="center">
   <a href="https://apps.apple.com/tr/app/kapka%C3%A7-screenshot-markup/id6826537251?mt=12"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/tr-tr?size=250x83" alt="Mac App Store'dan indir" height="56"></a>
